@@ -1,0 +1,76 @@
+p
+{
+	color: blue;
+}
+
+h1
+{
+	color: red;
+}
+
+em, strong
+{
+	color: purple;
+}
+
+#titreh6
+{
+	color: yellow;
+}
+
+.list
+{
+	color: green;
+}
+
+#blocktest
+{
+	background-color: red;
+}
+
+#inlinetest
+{
+	color: white;
+}
+
+*
+{
+	font-size: 14;
+}
+
+p em
+{
+
+}
+
+p + ul
+{
+
+}
+
+a[img]
+{
+
+}
+
+a[title = ""]
+{
+
+}
+
+a[title *= ""]
+{
+	
+}
+
+@font-face
+{
+	font-family: "nompolice";
+	src:	url('MaSuperPolice.eot') format ('eot'),
+			url('MaSuperPolice.woff') format('woff');
+}
+
+figure
+{
+	text-align: center;
+}
